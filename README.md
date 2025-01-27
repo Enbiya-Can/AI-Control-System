@@ -1,85 +1,63 @@
 **AI Control System**
 
-AI Control System, bir savaş karakterinin dinamik ve etkileşimli bir dünyada düşman AI'ları ile savaştığı, kullanıcı dostu ve özelleştirilebilir bir oyun kontrol sistemidir. Bu proje, klavye, mouse ve gamepad ile tam uyumlu olup, görsel efektler ve kullanışlı UI özellikleri ile zenginleştirilmiştir.
+The AI Control System is a dynamic and interactive game control system where a combat character battles enemy AIs in a rich, customizable world. This project is fully compatible with keyboard, mouse, and gamepad, and is enhanced with visual effects and useful UI features.
 
-**🎮 Oyun Mekanikleri**
+**🎮 Game Mechanics**
 
-1. Karakterin Temel Yetenekleri
+Character's Basic Abilities
 
-Kılıç Saldırısı: Karakter, seviyedeki AI düşmanlarını kılıcıyla keserek yok edebilir.
+Sword Attack: The character can defeat the AI enemies on the level by slashing them with a sword.
 
-AI Tepkileri: Kesilen AI'lar dinamik olarak yok olur ve oyun alanı temizlenir.
+AI Reactions: The defeated AI characters disappear dynamically, and the game environment is cleared.
 
-2. UI (Kullanıcı Arayüzü)
+UI (User Interface)
 
-Q Tuşu: Q tuşuna basıldığında bir UI ekranı açılır.
+Q Key: Pressing the Q key opens a UI screen.
+Options:
 
-Seçenekler:
+Restart: Restarts the game from the beginning.
+Continue: Resumes the current game from where you left off.
+Exit: Exits the game.
+Super Powers
 
-Yeniden Başlat: Oyunu sıfırdan başlatır.
+Niagara Effects:
+Z Key: Triggers a special effect around the character.
+X Key: Triggers an alternative superpower effect.
+Gamepad Support
 
-Devam Et: Mevcut oyunu kaldığınız yerden devam ettirir.
+The game is fully compatible with gamepads, and all mechanics can be controlled via the gamepad.
+**🔧 Technologies**
 
-Çıkış: Oyundan çıkar.
+The project is developed using the following technologies:
 
-3. Süper Güçler
+Unreal Engine 5: Game engine.
+Blueprint System: For easy and fast development.
+Niagara Particle System: For managing visual effects.
+**🎩 Features**
 
-Niagara Efektleri:
+Dynamic enemy management.
+User-friendly UI design.
+Keyboard, mouse, and gamepad support.
+Gameplay enriched with advanced visual effects.
 
-Z Tuşu: Karakterin çevresinde özel bir efekt başlatır.
 
-X Tuşu: Alternatif bir süper güç efekti tetiklenir.
+You can experience and customize the mechanics within the game.
+🖌 Developer Notes
 
-4. Gamepad Desteği
+This project is designed for both educational and entertainment purposes. You can use it as a base to create your own AI control system or to enhance your game development skills.
 
-Oyun, gamepad ile tam uyumlu olup tüm mekanikler gamepad üzerinden de kontrol edilebilir.
+**📈 Contact**
 
-**🔧 Teknolojiler**
-
-Proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
-
-Unreal Engine 5: Oyun motoru.
-
-Blueprint Sistemi: Kolay ve hızlı geliştirme için.
-
-Niagara Particle System: Görsel efektlerin yönetimi için.
-
-**🎩 Özellikler**
-
-Dinamik düşman yönetimi.
-
-Kullanıcı dostu UI tasarımı.
-
-Klavye, mouse ve gamepad desteği.
-
-Gelişmiş görsel efektlerle zenginleştirilmiş oynanış.
-
-**🚀 Kurulum ve Çalıştırma**
-
-Depoyu klonlayın:
-
-git clone https://github.com/your-username/ai-control-system.git
-
-Unreal Engine ile projeyi açın.
-
-Projeyi çalıştırın:
-
-Oyun içinde mekanikleri deneyimleyebilir ve özelleştirebilirsiniz.
-
-**🖌  Geliştirici Notları**
-
-Bu proje, hem eğitim hem de eğlence amaçlı olarak tasarlanmıştır. Kendi AI kontrol sisteminizi oluşturmak veya oyun geliştirme becerilerinizi geliştirmek için bu projeyi temel alabilirsiniz.
-
-**📈 İletişim**
-
-Sorularınız veya önerileriniz için benimle iletişime geçebilirsiniz:
+For questions or suggestions, feel free to reach out:
 
 GitHub: Enbiya-Can
 
-E-posta: your-email@example.com
+Email: enbiyasadikcan@gmail.com
 
-Yotube: Star Migrant
+Youtube: Star Migrant
 
-E-posta: enbiyasadikcan@gmail.com
+ArtStation: by Enbiya
 
-Hadi, savaşa katıl ve AI dünyasında hükmünü sür!
+Join the battle and rule the AI world!
+
+Let me know if you need further adjustments!
