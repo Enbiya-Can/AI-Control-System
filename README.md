@@ -61,3 +61,6 @@ ArtStation: by Enbiya
 Join the battle and rule the AI world!
 
 Let me know if you need further adjustments!
+
+![Uploading RPGCopy.png…]()
+
