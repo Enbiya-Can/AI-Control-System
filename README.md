@@ -1,62 +1,81 @@
-**🛡️ AI-Controlled Combat System**
-**🎮 Overview**
-This project is a dynamic AI Control System for a battle character. The player interacts with AI enemies in a challenging level, executing attacks, utilizing special abilities, and managing the game through an intuitive UI system. Both keyboard and gamepad controls are supported for seamless gameplay.
+AI Control System
 
-**⚔️ Key Features**
-AI Combat System
+AI Control System, bir savaş karakterinin dinamik ve etkileşimli bir dünyada düşman AI'ları ile savaştığı, kullanıcı dostu ve özelleştirilebilir bir oyun kontrol sistemidir. Bu proje, klavye, mouse ve gamepad ile tam uyumlu olup, görsel efektler ve kullanışlı UI özellikleri ile zenginleştirilmiştir.
 
-The character uses a sword to eliminate AI enemies.
-Enemies vanish upon defeat, creating a clean and dynamic battlefield.
-Interactive UI System
+🎮 Oyun Mekanikleri
 
-Press Q to open a sleek UI with:
-Restart
-Continue
-Exit
-Special Abilities
+1. Karakterin Temel Yetenekleri
 
-Unlock and activate Niagara Effects around the character:
-Z Key: Activates Superpower 1.
-X Key: Activates Superpower 2.
-Gamepad Support
+Kılıç Saldırısı: Karakter, seviyedeki AI düşmanlarını kılıcıyla keserek yok edebilir.
 
-Experience full control with a gamepad, including:
-Attack
-Special Abilities
-UI Navigation
-**🛠️ Technologies Used**
-Unreal Engine 5: Core game development.
-Niagara VFX System: Creating stunning visual effects.
-Blueprints & C++: For implementing game mechanics and logic.
-**🎥 Screenshots**
-Visualize the excitement with in-game screenshots!
+AI Tepkileri: Kesilen AI'lar dinamik olarak yok olur ve oyun alanı temizlenir.
 
-Add images here to showcase the UI, combat, and effects.
+2. UI (Kullanıcı Arayüzü)
 
-**🚀 Getting Started**
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-repo-name/AI-Control-System.git
-Open the project in Unreal Engine.
-Run and enjoy the game!
-**📝 Controls**
-Action	Keyboard	Gamepad
-Attack AI Enemies	Mouse Click	Right Trigger
-Open UI	Q	Start Button
-Activate Power 1	Z	Left Shoulder Button
-Activate Power 2	X	Right Shoulder Button
-**🌟 Future Plans**
-Enhance AI behavior with smarter tactics.
-Add multiple levels with increasing challenges.
-Introduce multiplayer mode for cooperative gameplay.
-**📬 Contribute**
-We welcome contributions! Follow these steps:
+Q Tuşu: Q tuşuna basıldığında bir UI ekranı açılır.
 
-Fork the repository.
-Create a new branch for your feature or fix.
-Submit a pull request to review your changes.
-Contact
-For feedback or collaboration, feel free to reach out! 😊
+Seçenekler:
 
+Yeniden Başlat: Oyunu sıfırdan başlatır.
+
+Devam Et: Mevcut oyunu kaldığınız yerden devam ettirir.
+
+Çıkış: Oyundan çıkar.
+
+3. Süper Güçler
+
+Niagara Efektleri:
+
+Z Tuşu: Karakterin çevresinde özel bir efekt başlatır.
+
+X Tuşu: Alternatif bir süper güç efekti tetiklenir.
+
+4. Gamepad Desteği
+
+Oyun, gamepad ile tam uyumlu olup tüm mekanikler gamepad üzerinden de kontrol edilebilir.
+
+🔧 Teknolojiler
+
+Proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
+
+Unreal Engine 5: Oyun motoru.
+
+Blueprint Sistemi: Kolay ve hızlı geliştirme için.
+
+Niagara Particle System: Görsel efektlerin yönetimi için.
+
+🎩 Özellikler
+
+Dinamik düşman yönetimi.
+
+Kullanıcı dostu UI tasarımı.
+
+Klavye, mouse ve gamepad desteği.
+
+Gelişmiş görsel efektlerle zenginleştirilmiş oynanış.
+
+🚀 Kurulum ve Çalıştırma
+
+Depoyu klonlayın:
+
+git clone https://github.com/your-username/ai-control-system.git
+
+Unreal Engine ile projeyi açın.
+
+Projeyi çalıştırın:
+
+Oyun içinde mekanikleri deneyimleyebilir ve özelleştirebilirsiniz.
+
+🖌  Geliştirici Notları
+
+Bu proje, hem eğitim hem de eğlence amaçlı olarak tasarlanmıştır. Kendi AI kontrol sisteminizi oluşturmak veya oyun geliştirme becerilerinizi geliştirmek için bu projeyi temel alabilirsiniz.
+
+📈 İletişim
+
+Sorularınız veya önerileriniz için benimle iletişime geçebilirsiniz:
+
+GitHub: your-username
+
+E-posta: your-email@example.com
+
+Hadi, savaşa katıl ve AI dünyasında hükmünü sür!
