@@ -1,8 +1,8 @@
-AI Control System
+**AI Control System**
 
 AI Control System, bir savaş karakterinin dinamik ve etkileşimli bir dünyada düşman AI'ları ile savaştığı, kullanıcı dostu ve özelleştirilebilir bir oyun kontrol sistemidir. Bu proje, klavye, mouse ve gamepad ile tam uyumlu olup, görsel efektler ve kullanışlı UI özellikleri ile zenginleştirilmiştir.
 
-🎮 Oyun Mekanikleri
+**🎮 Oyun Mekanikleri**
 
 1. Karakterin Temel Yetenekleri
 
@@ -34,7 +34,7 @@ X Tuşu: Alternatif bir süper güç efekti tetiklenir.
 
 Oyun, gamepad ile tam uyumlu olup tüm mekanikler gamepad üzerinden de kontrol edilebilir.
 
-🔧 Teknolojiler
+**🔧 Teknolojiler**
 
 Proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
@@ -44,7 +44,7 @@ Blueprint Sistemi: Kolay ve hızlı geliştirme için.
 
 Niagara Particle System: Görsel efektlerin yönetimi için.
 
-🎩 Özellikler
+**🎩 Özellikler**
 
 Dinamik düşman yönetimi.
 
@@ -54,7 +54,7 @@ Klavye, mouse ve gamepad desteği.
 
 Gelişmiş görsel efektlerle zenginleştirilmiş oynanış.
 
-🚀 Kurulum ve Çalıştırma
+**🚀 Kurulum ve Çalıştırma**
 
 Depoyu klonlayın:
 
@@ -66,16 +66,20 @@ Projeyi çalıştırın:
 
 Oyun içinde mekanikleri deneyimleyebilir ve özelleştirebilirsiniz.
 
-🖌  Geliştirici Notları
+**🖌  Geliştirici Notları**
 
 Bu proje, hem eğitim hem de eğlence amaçlı olarak tasarlanmıştır. Kendi AI kontrol sisteminizi oluşturmak veya oyun geliştirme becerilerinizi geliştirmek için bu projeyi temel alabilirsiniz.
 
-📈 İletişim
+**📈 İletişim**
 
 Sorularınız veya önerileriniz için benimle iletişime geçebilirsiniz:
 
-GitHub: your-username
+GitHub: Enbiya-Can
 
 E-posta: your-email@example.com
+
+Yotube: Star Migrant
+
+E-posta: enbiyasadikcan@gmail.com
 
 Hadi, savaşa katıl ve AI dünyasında hükmünü sür!
